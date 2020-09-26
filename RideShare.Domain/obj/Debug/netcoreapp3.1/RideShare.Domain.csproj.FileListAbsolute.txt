@@ -1,0 +1,8 @@
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\bin\Debug\netcoreapp3.1\RideShare.Domain.deps.json
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\bin\Debug\netcoreapp3.1\RideShare.Domain.dll
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\bin\Debug\netcoreapp3.1\RideShare.Domain.pdb
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\obj\Debug\netcoreapp3.1\RideShare.Domain.csprojAssemblyReference.cache
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\obj\Debug\netcoreapp3.1\RideShare.Domain.AssemblyInfoInputs.cache
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\obj\Debug\netcoreapp3.1\RideShare.Domain.AssemblyInfo.cs
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\obj\Debug\netcoreapp3.1\RideShare.Domain.dll
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Domain\obj\Debug\netcoreapp3.1\RideShare.Domain.pdb

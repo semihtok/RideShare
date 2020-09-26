@@ -1,0 +1,13 @@
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\bin\Debug\netcoreapp3.1\RideShare.Core.deps.json
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\bin\Debug\netcoreapp3.1\RideShare.Core.dll
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\bin\Debug\netcoreapp3.1\RideShare.Core.pdb
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\bin\Debug\netcoreapp3.1\RideShare.Data.dll
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\bin\Debug\netcoreapp3.1\RideShare.Domain.dll
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\bin\Debug\netcoreapp3.1\RideShare.Data.pdb
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\bin\Debug\netcoreapp3.1\RideShare.Domain.pdb
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\obj\Debug\netcoreapp3.1\RideShare.Core.csprojAssemblyReference.cache
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\obj\Debug\netcoreapp3.1\RideShare.Core.AssemblyInfoInputs.cache
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\obj\Debug\netcoreapp3.1\RideShare.Core.AssemblyInfo.cs
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\obj\Debug\netcoreapp3.1\RideShare.Core.csproj.CopyComplete
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\obj\Debug\netcoreapp3.1\RideShare.Core.dll
+C:\Users\semih.tok\RiderProjects\RideShare\RideShare.Core\obj\Debug\netcoreapp3.1\RideShare.Core.pdb
